@@ -3,7 +3,7 @@
   "symbol": "SCUMBAGS",
   "description": "A generative collection of 3,000 Unique Money Bag Characters",
   "seller_fee_basis_points": 1000,
-  "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
+  "image": "https://raw.githubusercontent.com/BHALEYART/king-scum/main/king-scum.png",
   "external_url": "SCUMBAG$",
   "edition": 777,
   "attributes": [
@@ -15,7 +15,7 @@
   "properties": {
     "files": [
       {
-        "uri": "https://upload.wikimedia.org/wikipedia/commons/4/47/PNG_transparency_demonstration_1.png",
+        "uri": "https://raw.githubusercontent.com/BHALEYART/king-scum/main/king-scum.png",
         "type": "image/png"
       }
     ],
